@@ -16,7 +16,7 @@
 	</div>
 	<div class="container">
 		<h1>BODY</h1>
-	
+		<h1>ㅁㄴㅇㄻㄴㅇㄹ</h1>
 	</div>
 	<div>
 		<jsp:include page="/include/footer.jsp"></jsp:include>
