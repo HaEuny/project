@@ -15,8 +15,6 @@
 		<jsp:include page="/include/header.jsp"></jsp:include>
 	</div>
 	<div class="container">
-		<h1>BODY</h1>
-		<h1>asdf</h1>
 	</div>
 	<div>
 		<jsp:include page="/include/footer.jsp"></jsp:include>
