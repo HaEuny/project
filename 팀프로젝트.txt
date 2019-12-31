@@ -1,0 +1,17 @@
+/*회원 테이블*/
+create table member(
+email varchar(20) primary key,
+pw varchar(20) not null,
+name varchar(10) not null,
+gender int(2) not null,
+birth_year varchar(10) not null,
+birth_month varchar(10) not null,
+birth_day varchar(10) not null,
+phonenumber varchar(20),
+address varchar(10),
+address1 varchar(100),
+address2 varchar(100),
+sms int(2)
+);
+
+
