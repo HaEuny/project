@@ -1,10 +1,25 @@
 package member.db;
 
-public interface MemberDAO {
-	public void updateMember();
-	public void deleteMember();
-	public void insertMember();
-	public void selectMember();
+public class MemberDAO implements MemberDAOInfc{
 
-
+	
+	@Override
+	public void deleteMember() {
+		
+	}
+	
+	@Override
+	public void insertMember() {
+		
+	}
+	
+	@Override
+	public void updateMember() {
+		
+	}
+	
+	@Override
+	public void selectMember() {
+		
+	}
 }
